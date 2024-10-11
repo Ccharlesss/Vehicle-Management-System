@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{24423A55-BB2C-42B7-A0ED-AAC151F25D22}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Completed_coursework/WestminsterRentalVehicless.cs">
+    <Files>
+      <File FileName="Completed_coursework/Program.cs" Line="193" Column="1" />
+      <File FileName="Completed_coursework/Vehicle.cs" Line="44" Column="48" />
+      <File FileName="Completed_coursework/Schedule.cs" Line="7" Column="1" />
+      <File FileName="Completed_coursework/MyComparer.cs" Line="6" Column="1" />
+      <File FileName="Completed_coursework/Menu.cs" Line="296" Column="1" />
+      <File FileName="Completed_coursework/WestminsterRentalVehicless.cs" Line="14" Column="1" />
+      <File FileName="Completed_coursework/IOverlappable.cs" Line="12" Column="1" />
+      <File FileName="Completed_coursework/IRentalCustomer.cs" Line="33" Column="2" />
+      <File FileName="Completed_coursework/IRentalManager.cs" Line="27" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Completed_coursework" expanded="True">
+            <Node name="Completed_coursework" expanded="True">
+              <Node name="WestminsterRentalVehicless.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Completed_coursework" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Completed__coursework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

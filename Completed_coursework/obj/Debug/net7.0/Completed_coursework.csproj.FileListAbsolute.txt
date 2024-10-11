@@ -1,0 +1,15 @@
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/bin/Debug/net7.0/Completed_coursework
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/bin/Debug/net7.0/Completed_coursework.deps.json
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/bin/Debug/net7.0/Completed_coursework.runtimeconfig.json
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/bin/Debug/net7.0/Completed_coursework.dll
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/bin/Debug/net7.0/Completed_coursework.pdb
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.csproj.AssemblyReference.cache
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.AssemblyInfoInputs.cache
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.AssemblyInfo.cs
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.csproj.CoreCompileInputs.cache
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.dll
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/refint/Completed_coursework.dll
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.pdb
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/Completed_coursework.genruntimeconfig.cache
+/Users/romainkuhne/Desktop/Completed_courseworkk/Completed_coursework/Completed_coursework/obj/Debug/net7.0/ref/Completed_coursework.dll
